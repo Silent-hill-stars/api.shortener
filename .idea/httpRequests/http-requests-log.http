@@ -1,0 +1,298 @@
+GET http://api.shortener/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://www.google.com/search?q=translate&rlz=1C1CHZN_ruRU932RU932&oq=&aqs=chrome.0.69i59i450l8.1492504j1j7&sourceid=chrome&ie=UTF-8"
+}
+
+<> 2021-01-12T192054.200.json
+
+###
+
+GET http://api.shortener/api/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://www.google.com/search?q=translate&rlz=1C1CHZN_ruRU932RU932&oq=&aqs=chrome.0.69i59i450l8.1492504j1j7&sourceid=chrome&ie=UTF-8"
+}
+
+<> 2021-01-12T192049.200.json
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://www.google.com/search?q=translate&rlz=1C1CHZN_ruRU932RU932&oq=&aqs=chrome.0.69i59i450l8.1492504j1j7&sourceid=chrome&ie=UTF-8"
+}
+
+<> 2021-01-12T192041.404.json
+
+###
+
+GET http://api.shortener/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://www.google.com/search?q=translate&rlz=1C1CHZN_ruRU932RU932&oq=&aqs=chrome.0.69i59i450l8.1492504j1j7&sourceid=chrome&ie=UTF-8"
+}
+
+<> 2021-01-12T192029.200.json
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://www.google.com/search?q=translate&rlz=1C1CHZN_ruRU932RU932&oq=&aqs=chrome.0.69i59i450l8.1492504j1j7&sourceid=chrome&ie=UTF-8"
+}
+
+<> 2021-01-12T191339.300.json
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://www.google.com/search?q=translate&rlz=1C1CHZN_ruRU932RU932&oq=&aqs=chrome.0.69i59i450l8.1492504j1j7&sourceid=chrome&ie=UTF-8"
+}
+
+<> 2021-01-12T191328.200.json
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://www.google.com/search?q=translate&rlz=1C1CHZN_ruRU932RU932&oq=&aqs=chrome.0.69i59i450l8.1492504j1j7&sourceid=chrome&ie=UTF-8"
+}
+
+<> 2021-01-12T191039.200.json
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "wafawf"
+}
+
+<> 2021-01-12T191014.422.json
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "wafawf"
+}
+
+<> 2021-01-12T190925.422.json
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "wafawf"
+}
+
+<> 2021-01-12T190555.200.json
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "wafawf"
+}
+
+<> 2021-01-12T190538.200.json
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T190508.200.json
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T190314.200.html
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T190240.200.html
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T190032.200.html
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T185752.200.html
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T185724.200.html
+
+###
+
+GET http://api.shortener
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T185423.200.html
+
+###
+
+GET http://api.shortener/api/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T185415.404.html
+
+###
+
+GET http://api.shortener/api/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T185310.404.html
+
+###
+
+GET http://api.shortener/api/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T185251.404.html
+
+###
+
+GET http://api.shortener/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T185246.404.html
+
+###
+
+GET http://api.shortener/api/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T185130.404.html
+
+###
+
+GET http://api.shortener/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+<> 2021-01-12T185112.404.html
+
+###
+
+GET http://api.shortener/api
+Accept: application/json
+Content-Type: application/json
+
+{
+  "link": "https://support.microsoft.com/en-us/windows/find-the-recycle-bin-885cf298-0f98-a548-9427-a1248fce4315"
+}
+
+###
+
